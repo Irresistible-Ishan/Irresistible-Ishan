@@ -6,11 +6,11 @@
 - coding as a serious hobby not a job, since 2018.
   
 ### Education : 
- Vellore Institute Of Technology , Chennai.
- studying Computer Science And Engineering (datascience) - (2025 - 2029)
+ - Vellore Institute Of Technology , Chennai.
+ - studying Computer Science And Engineering (datascience) - (2025 - 2029)
  
 ### Currently :
- Helping IEEE Computer Society, VIT Chennai as a Technical Team Member, contributing technical expertise to projects and events.
- Developing AI / ML projects with Microsoft Innovations Club , VIT Chennai as an AI / ML member.
- Learning Open Source contributions to real world projects and tools that the world is using.
- Aspiring AIML/Computational Researcher & Backend/Software Engineer.
+ - Helping IEEE Computer Society, VIT Chennai as a Technical Team Member, contributing technical expertise to projects and events.
+ - Developing AI / ML projects with Microsoft Innovations Club , VIT Chennai as an AI / ML member.
+ - Learning Open Source contributions to real world projects and tools that the world is using.
+ - Aspiring AIML/Computational Researcher & Backend/Software Engineer.
