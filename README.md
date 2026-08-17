@@ -11,6 +11,6 @@
  
 ### Currently :
  - Helping IEEE Computer Society, VIT Chennai as a Technical Team Member, contributing technical expertise to projects and events.
- - Developing AI / ML projects with Microsoft Innovations Club , VIT Chennai as an AI / ML member.
+ - Developing AI / ML projects with Microsoft Innovations Club , VIT Chennai as an AI / ML Team Member.
  - Learning Open Source contributions to real world projects and tools that the world is using.
  - Aspiring AIML/Computational Researcher & Backend/Software Engineer.
