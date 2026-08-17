@@ -6,7 +6,8 @@
 - coding as a serious hobby not a job, since 2018.
   
 ### Education : 
- VELLORE INSITITUE OF TECHNOLOGY , CHENNAI - Computer Science And Engineering (datascience) | (2025 - 2029)
+ Vellore Institute Of Technology , Chennai.
+ studying Computer Science And Engineering (datascience) - (2025 - 2029)
  
 ### Currently :
  Helping IEEE Computer Society, VIT Chennai as a Technical Team Member, contributing technical expertise to projects and events.
