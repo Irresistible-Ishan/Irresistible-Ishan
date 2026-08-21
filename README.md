@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI AND CHATBOTS and generally anything thats different and hard to do.
 - 🌱 I’m currently learning Making human level bots and unconventional codes
 - 💞️ I’m looking to collaborate with someone having intrest in making Bots and AIs , or generally anything!
-- 📫 How to reach me 1ishanmanisingh@gmail.com 
+- 📫 How to reach me 1ishanmanisingh@gmail.com or Discord : "code7x" username
 - coding as a serious hobby not a job, since 2018.
   
 ### Education : 
